@@ -1,4 +1,4 @@
-rjuyal.github.io
+rakeshjuyal.github.io
 ================
 
 my website; rjuyal
